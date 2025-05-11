@@ -1,2 +1,0 @@
-# BaseLearningApi
-A.I Api
